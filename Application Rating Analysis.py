@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # In[1]:
 
 
@@ -91,10 +88,3 @@ plt.xlabel('Week')
 plt.ylabel('Average statement rating')
 plt.ylim(0, 55)
 plt.show()
-
-
-# In[ ]:
-
-
-
-
