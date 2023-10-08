@@ -23,4 +23,4 @@ The resulting table includes only applications with ratings greater than zero, s
 I grouped the data by the application submission week and generated a plot illustrating the average rating of accepted applications for each week.
 
 #### Skills:
-Python, NumPy, Pandas, Matplotlib, Jupyter Notebook
+Data Analysis · Python (Programming Language) · NumPy · Pandas (Software) · Matplotlib · Jupyter · Data Visualization
